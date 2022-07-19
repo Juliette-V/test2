@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Orelega One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./OrelagaOne/OrelegaOne-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./Lato/Lato-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./Lato/Lato-Regular.ttf') format('truetype');
+}

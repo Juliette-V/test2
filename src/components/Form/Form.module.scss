@@ -1,0 +1,39 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 111px 30px 50px;
+    border: 1px solid #ECECEC;
+}
+.input{
+    margin-bottom: 30px;
+    border: 1px solid #223066;
+    outline: none;
+    padding: 16px 30px 17px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 180%;
+    color: #232323;
+    background: #F9F9F9;
+}
+.select{
+    margin-bottom: 50px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    appearance: none;
+    background-image: url("../../resources/images/ArrowDown.png");
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    cursor: pointer;
+    option{
+        font-size: 16px;
+        line-height: 180%;
+        color: #232323;
+        background-color: #F9F9F9;
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 300;
+}
+}
